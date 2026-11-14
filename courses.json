@@ -1,0 +1,20 @@
+{
+    "format_version": 1,
+    "courses": [
+        {
+            "code": "CSC201",
+            "title": "Introduction to Programming",
+            "units": 3
+        },
+        {
+            "code": "MTH203",
+            "title": "Discrete Mathematics",
+            "units": 2
+        },
+        {
+            "code": "IFT211",
+            "title": "Digital Logic Design",
+            "units": 3
+        }
+    ]
+}

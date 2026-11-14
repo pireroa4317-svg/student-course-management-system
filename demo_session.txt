@@ -1,0 +1,126 @@
+
+Welcome. Manage your semester courses in one place.
+
+========================================================
+          STUDENT COURSE MANAGEMENT SYSTEM
+========================================================
+  1. Add Course
+  2. View All Courses
+  3. Search Course by Code
+  4. Compute Total Units
+  5. Save to File
+  6. Load from File
+  7. Exit Program
+--------------------------------------------------------
+Select an option (1-7): Course code (e.g. CSC201): Course title: Credit units (1-10): 
+[SUCCESS] CSC201 - Introduction to Programming added.
+
+========================================================
+          STUDENT COURSE MANAGEMENT SYSTEM
+========================================================
+  1. Add Course
+  2. View All Courses
+  3. Search Course by Code
+  4. Compute Total Units
+  5. Save to File
+  6. Load from File
+  7. Exit Program
+--------------------------------------------------------
+Select an option (1-7): Course code (e.g. CSC201): Course title: Credit units (1-10): 
+[SUCCESS] MTH203 - Discrete Mathematics added.
+
+========================================================
+          STUDENT COURSE MANAGEMENT SYSTEM
+========================================================
+  1. Add Course
+  2. View All Courses
+  3. Search Course by Code
+  4. Compute Total Units
+  5. Save to File
+  6. Load from File
+  7. Exit Program
+--------------------------------------------------------
+Select an option (1-7): Course code (e.g. CSC201): Course title: Credit units (1-10): 
+[SUCCESS] IFT211 - Digital Logic Design added.
+
+========================================================
+          STUDENT COURSE MANAGEMENT SYSTEM
+========================================================
+  1. Add Course
+  2. View All Courses
+  3. Search Course by Code
+  4. Compute Total Units
+  5. Save to File
+  6. Load from File
+  7. Exit Program
+--------------------------------------------------------
+Select an option (1-7): 
+------------------------------------------------------------------------
+NO.  COURSE CODE     COURSE TITLE                              UNITS
+------------------------------------------------------------------------
+1    CSC201          Introduction to Programming                   3
+2    MTH203          Discrete Mathematics                          2
+3    IFT211          Digital Logic Design                          3
+------------------------------------------------------------------------
+Courses recorded: 3
+
+========================================================
+          STUDENT COURSE MANAGEMENT SYSTEM
+========================================================
+  1. Add Course
+  2. View All Courses
+  3. Search Course by Code
+  4. Compute Total Units
+  5. Save to File
+  6. Load from File
+  7. Exit Program
+--------------------------------------------------------
+Select an option (1-7): Enter course code to search: 
+[FOUND]
+Course code : MTH203
+Course title: Discrete Mathematics
+Credit units: 2
+
+========================================================
+          STUDENT COURSE MANAGEMENT SYSTEM
+========================================================
+  1. Add Course
+  2. View All Courses
+  3. Search Course by Code
+  4. Compute Total Units
+  5. Save to File
+  6. Load from File
+  7. Exit Program
+--------------------------------------------------------
+Select an option (1-7): 
+Total registered courses: 3
+Total credit units       : 8
+
+========================================================
+          STUDENT COURSE MANAGEMENT SYSTEM
+========================================================
+  1. Add Course
+  2. View All Courses
+  3. Search Course by Code
+  4. Compute Total Units
+  5. Save to File
+  6. Load from File
+  7. Exit Program
+--------------------------------------------------------
+Select an option (1-7): 
+[SUCCESS] 3 course(s) saved to courses.json.
+
+========================================================
+          STUDENT COURSE MANAGEMENT SYSTEM
+========================================================
+  1. Add Course
+  2. View All Courses
+  3. Search Course by Code
+  4. Compute Total Units
+  5. Save to File
+  6. Load from File
+  7. Exit Program
+--------------------------------------------------------
+Select an option (1-7): 
+Thank you for using the Student Course Management System.
+Goodbye!
